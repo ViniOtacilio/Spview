@@ -1,0 +1,61 @@
+.navbar{
+  background-color:#1c1818;
+}
+.navbar-brand{
+ font-family: 'Indie Flower', cursive;
+ font-size: 38px;
+ font-weight:bold;
+}
+.navbar-default .navbar-brand{
+  color:#f5f5f5;
+}
+.navbar-default .navbar-nav>li>a {
+    color:#f5f5f5;
+}
+.navbar-right{
+ font-family: 'Indie Flower', cursive;
+ font-size: 18px;
+ font-weight:bold;
+}
+.jumbotron{
+  background: url("https://upload.wikimedia.org/wikipedia/commons/2/24/Sao_paulo_brazil_e_la_noche.jpg") no-repeat center center; 
+    -webkit-background-size: 100% 100%;
+    -moz-background-size: 100% 100%;
+    -o-background-size: 100% 100%;
+    background-size: 100% 100%;
+}
+.space{
+  height: 600px;
+  widht-max:100%;
+}
+#title{
+  text-align:center;
+  font-size:120px;
+font-family: 'Lobster', cursive;
+  color: #f5f5f5;
+  padding: 80px ;
+    text-shadow: black 0.1em 0.1em 0.2em;
+
+}
+#subtitle {
+   text-align:center;
+  font-size:24px;
+font-family: 'Lobster', cursive;
+  color: #f5f5f5;
+  padding: 10px;
+  text-shadow: black 0.1em 0.1em 0.2em;
+}
+.button{
+    font-family: 'Lobster', cursive;
+    background-color: transparent;
+    color: white;
+    padding: 30px;
+    text-align: center;
+    text-decoration: none;
+    cursor: pointer;
+    border: 2px solid white; 
+    display: block;
+    margin: auto;
+    width: 50%;
+    border-radius: 12px;
+}
