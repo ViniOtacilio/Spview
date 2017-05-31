@@ -1,3 +1,6 @@
+body{
+  background-color: #191919;
+}
 .navbar{
   background-color:#1c1818;
 }
@@ -18,7 +21,7 @@
  font-weight:bold;
 }
 .jumbotron{
-  background: url("https://upload.wikimedia.org/wikipedia/commons/2/24/Sao_paulo_brazil_e_la_noche.jpg") no-repeat center center; 
+  background: url("http://wallpaper-gallery.net/images/paris-wallpaper-hd/paris-wallpaper-hd-15.jpg") no-repeat center center; 
     -webkit-background-size: 100% 100%;
     -moz-background-size: 100% 100%;
     -o-background-size: 100% 100%;
@@ -26,7 +29,7 @@
 }
 .space{
   height: 600px;
-  widht-max:100%;
+  width-max:100%;
 }
 #title{
   text-align:center;
@@ -58,4 +61,17 @@ font-family: 'Lobster', cursive;
     margin: auto;
     width: 50%;
     border-radius: 12px;
+}
+#slides {
+ text-align:center;
+  font-size:100px;
+font-family: 'Lobster', cursive;
+  color: #f5f5f5;
+  padding: 20px ;
+    text-shadow: black 0.1em 0.1em 0.2em;
+}
+.carousel-caption{
+  font-family: 'Lobster', cursive;
+  color: #f5f5f5;
+
 }
