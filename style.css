@@ -21,7 +21,7 @@ body{
  font-weight:bold;
 }
 .jumbotron{
-  background: url("http://wallpaper-gallery.net/images/paris-wallpaper-hd/paris-wallpaper-hd-15.jpg") no-repeat center center; 
+  background: url("https://wallpapercave.com/wp/wp1847430.jpg") no-repeat center center; 
     -webkit-background-size: 100% 100%;
     -moz-background-size: 100% 100%;
     -o-background-size: 100% 100%;
@@ -41,9 +41,9 @@ font-family: 'Lobster', cursive;
 
 }
 #subtitle {
-   text-align:center;
+  text-align:center;
   font-size:24px;
-font-family: 'Lobster', cursive;
+  font-family: 'Lobster', cursive;
   color: #f5f5f5;
   padding: 10px;
   text-shadow: black 0.1em 0.1em 0.2em;
@@ -75,3 +75,4 @@ font-family: 'Lobster', cursive;
   color: #f5f5f5;
 
 }
+
